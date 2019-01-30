@@ -92,12 +92,12 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/
 /******/ 	__webpack_require__.p = typeof window !== 'undefined' && window.__STATICS_BASE_URL__ || __webpack_require__.p;
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 825);
+/******/ 	return __webpack_require__(__webpack_require__.s = 796);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ 825:
+/***/ 796:
 /*!*********************!*\
   !*** ./dataRefs.js ***!
   \*********************/
@@ -113,7 +113,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _dataRefs = __webpack_require__(/*! ./dataRefs.json */ 826);
+var _dataRefs = __webpack_require__(/*! ./dataRefs.json */ 797);
 
 var _dataRefs2 = _interopRequireDefault(_dataRefs);
 
@@ -123,7 +123,7 @@ exports.default = _dataRefs2.default;
 
 /***/ }),
 
-/***/ 826:
+/***/ 797:
 /*!***********************!*\
   !*** ./dataRefs.json ***!
   \***********************/
